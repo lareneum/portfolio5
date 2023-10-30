@@ -1,0 +1,86 @@
+#myPhoto{
+    width:600px;
+
+}
+#blok1{
+
+    background-image:url('background_block_main (1).jpg');
+
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
+.menu{
+    padding-top: 20px;
+    padding-bottom:50px;
+}
+h2{
+    padding-top: 50px; 
+    padding-bottom: 50px; 
+    font-size:80px;
+    font-weight:400px;
+}
+
+h1{
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    font-size:50px;
+    font-weight:400px;
+}
+p{
+    font-size:20px;
+    padding-bottom:100px;
+}
+a{
+padding-right:50px;
+font-size:20px;
+}
+
+#blok2{
+    padding-top:100px;
+    padding-bottom: 100px;
+}
+
+#blok3{
+    background-color: gainsboro;
+    padding-top:100px;
+}
+.first{
+
+}
+.second{
+    padding-top:20px;
+
+}
+.third{
+    padding-top:20px;
+
+}
+.textBlok3{
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
+.icon{
+    text-align: center;
+}
+#blok4{
+    padding-top: 100px;
+}
+
+#blok5{
+    background-color: gainsboro;
+    padding-top: 100px;
+}
+.chisla{
+    text-align:center;
+}
+.nazvanie{
+    text-align:center;
+
+}
